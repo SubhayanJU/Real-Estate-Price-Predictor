@@ -62,22 +62,16 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/real-estate-house-price-prediction.git
+    https://github.com/SubhayanJU/Real-Estate-Price-Predictor
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd real-estate-house-price-prediction
+    cd Real-Estate-Price-Predictor
     ```
 
-3. Run the script to execute the models and evaluate their performance:
-
-    ```bash
-    python house_price_prediction.py
-    ```
-
-4. The script will output the performance metrics of each model and indicate the best-performing model.
+3. The script will output the performance metrics of each model and indicate the best-performing model.
 
 ## Results
 
