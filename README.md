@@ -77,13 +77,10 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 
 After evaluating all three models using cross-validation, the Random Forest Regressor achieved the highest accuracy of **95.11%**, making it the chosen model for house price prediction.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
 
-- The dataset used in this project is sourced from [dataset source or provider].
+- The dataset used in this project is sourced from Kaggle.
 - Special thanks to the contributors and community for providing valuable resources and support.
 
 ---
